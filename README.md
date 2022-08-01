@@ -1,6 +1,7 @@
 # flies-game
 a little killing game written in python
-copyriht 2022 by Marcel J. Konrad
+
+copyright (C) 2022 by Marcel J. Konrad
 ___________________________________________
 It's about killing as many flies as possible in 90 seconds.
 Just klick them.
